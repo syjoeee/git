@@ -23,6 +23,10 @@ Add, "alias ..." line in /.zshrc file
 ```
 echo 'alias norm=“python3 -m norminette“' >> ~/.zshrc
 ```
+If you don't make an alias,
+```
+~/.norminette/norminette.rb <filename.c>
+```
 
 
 
