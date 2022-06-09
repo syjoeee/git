@@ -4,7 +4,6 @@
 ## Getting Started
 
 This instruction will help you make a code precisely.
-> Just follow
 
 ## C/C++
 Example
@@ -16,7 +15,7 @@ Example
 
 ### iTerm2
 
-Powerlevel10k
+* Powerlevel10k
 ```
 ~/.zshrc
 ```
