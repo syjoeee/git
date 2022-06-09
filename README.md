@@ -33,7 +33,7 @@ If you don't make an alias,
 
 
 
-### Git
+## Git
 
 * Generating SSH key on Mac - ssh-keygen
 -- [SSH](https://man7.org/linux/man-pages/man1/ssh-keygen.1.html)
@@ -48,7 +48,7 @@ Without --cached, delete everything, including working tree.
 
 
 
-### iTerm2
+## iTerm2
 
 To set Powerlevel10k on iTerm2,
 
@@ -70,7 +70,7 @@ a session ended very soon after starting
 ```
 It means you get some typo in zshrc file, check it precisely.
 
-### LaTex
+## LaTex
 
 
 
