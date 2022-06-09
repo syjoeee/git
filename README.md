@@ -50,11 +50,9 @@ Without --cached, delete everything, including working tree.
 
 ### iTerm2
 
-Powerlevel10k
-```
-~/.zshrc
-```
-Then add this sentence
+To set Powerlevel10k on iTerm2,
+
+Add this sentence in /.zshrc file
 ```
 ZSH_THEME=“powerlevel10k/powerlevel10k
 ```
