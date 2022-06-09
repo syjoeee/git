@@ -13,9 +13,23 @@ Example
 
 ### Git
 
+* Generating SSH key on Mac - ssh-keygen
+[SSH](https://man7.org/linux/man-pages/man1/ssh-keygen.1.html)
+
+* git options
+If i don't want to commit this file but I already pushed
+```
+git rm --cached <filename>
+```
+--cached means deleting files in staging-area, without touching the working tree (storage).
+
+
+
+
+
 ### iTerm2
 
-* Powerlevel10k
+Powerlevel10k
 ```
 ~/.zshrc
 ```
