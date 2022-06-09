@@ -9,7 +9,23 @@ This instruction will help you make a code precisely.
 Example
 
 
-## Else
+## Ecole 42
+
+Open VScode from Terminal
+Add,
+```
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+```
+Making a Norminette shortcut
+Add, "alias ..." line in /.zshrc file
+```
+echo 'alias norm=“python3 -m norminette“' >> ~/.zshrc
+```
+
+
+
+
+
 
 ### Git
 
