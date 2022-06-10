@@ -46,6 +46,7 @@ git rm --cached <filename>
 --cached means deleting files in staging-area, without touching the working tree (storage).
 Without --cached, delete everything, including working tree.
 
+* Git Sheet -- [GIT](https://www.javatpoint.com/git-cheat-sheet)
 
 
 ## iTerm2
